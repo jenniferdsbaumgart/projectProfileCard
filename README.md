@@ -6,14 +6,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Build out the project to the designs provided
 
-### Screenshot
-
-![](/images/Screenshot%202023-03-26%20at%2017.25.44.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (profilecardfrontendmentorchallenge.netlify.app)
+- Solution URL: https://www.frontendmentor.io/solutions/profile-card-9LoFdU4cDD
+- Live Site URL: https://profilecardfrontendmentorchallenge.netlify.app
 
 ## My process
 
