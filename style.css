@@ -1,0 +1,144 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: hsl(185, 75%, 39%);
+}
+
+ul {
+  list-style-type: none;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  padding-inline-start: 0;
+}
+
+body, html {
+  font-family: "Kumbh Sans", sans-serif;
+  font-size: 18px;
+  height: 100%;
+}
+
+.container {
+  background-color: hsl(185, 75%, 39%);
+  height: 100%;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.bg-ballon-top {
+  position: absolute;
+  top: -50%;
+  right: 50%;
+  z-index: 9;
+}
+
+.bg-ballon-bottom {
+  position: absolute;
+  bottom: -50%;
+  left: 50%;
+  z-index: 9;
+}
+
+/*CARD*/
+.content {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  position: relative;
+  z-index: 10;
+  width: 325px;
+  height: 375px;
+  border-radius: 15px;
+  background: #fff url(../images/bg-pattern-card.svg) no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.img-profile img {
+  max-width: 100%;
+  border-radius: 50%;
+  border: 5px solid #fff;
+}
+
+.name-profile {
+  text-transform: capitalize;
+  font-size: 17px;
+  font-weight: 700;
+  color: hsl(229, 23%, 23%);
+  padding-top: 1rem;
+}
+
+.age-profile {
+  color: hsl(0, 0%, 59%);
+  font-weight: 400;
+}
+
+.city-profile {
+  text-transform: capitalize;
+  color: hsl(0, 0%, 59%);
+  font-size: 14px;
+  padding-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.card-footer {
+  position: absolute;
+  bottom: 0;
+  border-top: 1px solid #e9e9e9;
+  width: 100%;
+}
+
+.social-numbers {
+  display: flex;
+  justify-content: space-around;
+}
+
+.item-social-numbers {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.number {
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 0.2rem;
+}
+
+.social-description {
+  text-transform: capitalize;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+
+/*# sourceMappingURL=style.css.map */
