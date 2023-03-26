@@ -12,7 +12,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/profile-card-9LoFdU4cDD
 - Live Site URL: https://profilecardfrontendmentorchallenge.netlify.app
 
 ## My process
