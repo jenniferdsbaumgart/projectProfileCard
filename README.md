@@ -6,9 +6,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Build out the project to the designs provided
 
-### Screenshot
-
-![](/images/Screenshot%202023-03-26%20at%2017.25.44.png)
 
 ### Links
 
